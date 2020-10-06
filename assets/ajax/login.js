@@ -19,7 +19,7 @@ $(document).ready(function(){
 			success:function(result){
 				if (result == "success") {
 
-					window.location = "../magigilas/user/welcome.php";
+					window.location = "user/welcome.php";
 
 				}
 				else if (result == "invalid"){
