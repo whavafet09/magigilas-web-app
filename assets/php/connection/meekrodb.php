@@ -22,7 +22,7 @@ class DB {
   public static $dbName = 'Eq5CRCTAMV';
   public static $user = 'Eq5CRCTAMV';
   public static $password = 'sQrDQ9jHj2';
-  public static $host = ' remotemysql.com';
+  public static $host = 'remotemysql.com';
   public static $port = 3306;
   public static $encoding = 'latin1';
   
@@ -117,7 +117,7 @@ class MeekroDB {
   public static $dbName = 'Eq5CRCTAMV';
   public static $user = 'Eq5CRCTAMV';
   public static $password = 'sQrDQ9jHj2';
-  public static $host = ' remotemysql.com';
+  public static $host = 'remotemysql.com';
   public static $port = 3306;
   public static $encoding = 'latin1';
   
