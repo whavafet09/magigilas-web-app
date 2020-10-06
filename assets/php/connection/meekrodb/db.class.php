@@ -110,9 +110,9 @@ class DB {
 
 class MeekroDB {
   // initial connection
-  public $dbName = '';
-  public $user = '';
-  public $password = '';
+  public $dbName = 'Eq5CRCTAMV';
+  public $user = 'Eq5CRCTAMV';
+  public $password = 'sQrDQ9jHj2';
   public $host = 'remotemysql.com';
   public $port = 3306;
   public $socket = null;
