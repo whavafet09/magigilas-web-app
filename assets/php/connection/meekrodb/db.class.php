@@ -19,10 +19,10 @@
 
 class DB {
   // initial connection
-  public static $dbName = 'cashpo';
-  public static $user = 'root';
-  public static $password = '';
-  public static $host = 'localhost';
+  public static $dbName = 'Eq5CRCTAMV';
+  public static $user = 'Eq5CRCTAMV';
+  public static $password = 'sQrDQ9jHj2';
+  public static $host = 'remotemysql.com';
   public static $port = 3306; //hhvm complains if this is null
   public static $socket = null;
   public static $encoding = 'latin1';
@@ -113,7 +113,7 @@ class MeekroDB {
   public $dbName = '';
   public $user = '';
   public $password = '';
-  public $host = 'localhost';
+  public $host = 'remotemysql.com';
   public $port = 3306;
   public $socket = null;
   public $encoding = 'latin1';
