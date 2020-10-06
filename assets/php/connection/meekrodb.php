@@ -114,12 +114,12 @@ class DB {
 
 class MeekroDB {
   // initial connection
-  public $dbName = '';
-  public $user = '';
-  public $password = '';
-  public $host = 'localhost';
-  public $port = null;
-  public $encoding = 'latin1';
+  public static $dbName = 'Eq5CRCTAMV';
+  public static $user = 'Eq5CRCTAMV';
+  public static $password = 'sQrDQ9jHj2';
+  public static $host = ' remotemysql.com';
+  public static $port = 3306;
+  public static $encoding = 'latin1';
   
   // configure workings
   public $param_char = '%';
