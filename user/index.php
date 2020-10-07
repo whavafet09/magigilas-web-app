@@ -8,9 +8,11 @@ body, html {
   margin:auto;
 
 }
+
+
 .cardx{
-	height: 100%; 
-	background-image: url("../assets/img/profilebg.png");
+	height: 100%;
+	background-image: url("../assets/img/profilebg2.png");
 	background-position: center;
   	background-repeat: no-repeat;
  	background-size: cover;
@@ -18,6 +20,8 @@ body, html {
 
 
 }
+
+
 .content {
   position: absolute;
   height:100%;
@@ -40,7 +44,7 @@ body, html {
 	.cardx{
 	height: 496px; 
 	width: 999px;
-	background-image: url("../assets/img/profilebg.png");
+	background-image: url("../assets/img/profilebg2.png");
 	background-position: center center;
   	background-repeat: no-repeat;
  	background-size: cover;

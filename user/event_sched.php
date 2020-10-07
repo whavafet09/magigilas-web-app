@@ -11,7 +11,7 @@ body, html {
 .cardx{
 	height: 100%; 
 	background-color:skyblue;
-	background-image: url("../assets/img/sched2.png");
+	background-image: url("../assets/img/sched3.png");
 	background-position: center;
   	background-repeat: no-repeat;
  	background-size: cover;
@@ -41,7 +41,7 @@ body, html {
 	.cardx{
 	height: 496px; 
 	width: 999px;
-	background-image: url("../assets/img/sched2.png");
+	background-image: url("../assets/img/sched3.png");
 	background-position: center center;
   	background-repeat: no-repeat;
  	background-size: cover;

@@ -15,12 +15,12 @@ body {
 .content {
   position: absolute;
   background: rgba(0, 0, 0, 0.1);
-  background-image: url("../assets/img/wecomebg.png");
+  background-image: url("../assets/img/wecomebg2.png");
   background-position: center;
   background-repeat: no-repeat;
  	background-size: cover;
   width: 100%;
-  height:663px;
+  height:100%;
   padding: 20px;
 }
 
@@ -50,7 +50,7 @@ body {
   .content {
   position: absolute;
   background: rgba(0, 0, 0, 0.1);
-  background-image: url("../assets/img/wecomebg.png");
+  background-image: url("../assets/img/wecomebg2.png");
   background-position: center;
   background-repeat: no-repeat;
  	background-size: cover;
@@ -65,11 +65,11 @@ body {
 
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 999px) {
   .content {
   position: absolute;
   background: rgba(0, 0, 0, 0.1);
-  background-image: url("../assets/img/wecomebg.png");
+  background-image: url("../assets/img/wecomebg2.png");
   background-position: center;
   background-repeat: no-repeat;
  	background-size: cover;

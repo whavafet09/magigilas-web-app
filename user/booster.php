@@ -11,7 +11,7 @@ body, html {
 .cardx{
 	height: 100%; 
 	background-color:skyblue;
-	background-image: url("../assets/img/modules/booster2.png")!important;
+	background-image: url("../assets/img/modules/booster3.png")!important;
 	background-position: center;
   	background-repeat: no-repeat;
  	background-size: cover;
@@ -39,7 +39,7 @@ body, html {
 	.cardx{
 	height: 496px; 
 	width: 999px;
-	background-image: url("../assets/img/modules/booster2.png")!important;
+	background-image: url("../assets/img/modules/booster3.png")!important;
 	background-position: center center;
   	background-repeat: no-repeat;
  	background-size: cover;
