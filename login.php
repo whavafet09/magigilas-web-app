@@ -10,7 +10,7 @@ body, html {
 
 .cardx{
 	height: 100%; 
-	background-image: url("assets/img/login.png");
+	background-image: url("assets/img/login2.png");
 	background-position: center center;
   	background-repeat: no-repeat;
  	background-size: cover;
@@ -45,7 +45,7 @@ body, html {
 @media only screen and (min-height: 768px) {
 	.cardx{
 	height: 100%; 
-	background-image: url("assets/img/loginbg.png");
+	background-image: url("assets/img/loginbg2.png");
 	background-position: center center;
   	background-repeat: no-repeat;
  	background-size: cover;
@@ -64,7 +64,7 @@ body, html {
 	.cardx{
 	height: 522px; 
 	width: 999px; 
-	background-image: url("assets/img/loginbg.png");
+	background-image: url("assets/img/loginbg2.png");
 	background-position: center center;
   	background-repeat: no-repeat;
  	background-size: cover;
@@ -74,7 +74,7 @@ body, html {
 	
 	}
 	#login{
-		margin-left:-65px;
+		margin-left:-90px;
 		margin-top:-45px;
 		
 	}
@@ -85,7 +85,7 @@ body, html {
 </style>
 <div class="cardx" >
 	<div class="content" class="row">
-		<div style="margin-left:120px; margin-top:370px;" class=" .col-xl-4">
+		<div style="margin-left:145px; margin-top:370px;" class=" .col-xl-4">
 			<form id="login" >
 	
 					<div class="form-group ">
