@@ -82,7 +82,12 @@ body, html {
 									<li data-target="#demo" data-slide-to="0" class="active"></li>
 									<li data-target="#demo" data-slide-to="1"></li>
 									<li data-target="#demo" data-slide-to="2"></li>
-                                    <li data-target="#demo" data-slide-to="3"></li>
+                                    					<li data-target="#demo" data-slide-to="3"></li>
+									<li data-target="#demo" data-slide-to="4"></li>
+									<li data-target="#demo" data-slide-to="5"></li>
+									<li data-target="#demo" data-slide-to="6"></li>
+									<li data-target="#demo" data-slide-to="7"></li>
+									<li data-target="#demo" data-slide-to="8"></li>
 		
 								</ul>
 
@@ -102,8 +107,33 @@ body, html {
 										<div class="carousel-caption">
 										</div>   
 									</div>
-                                    <div class="carousel-item">
+                                    					<div class="carousel-item">
 										<img class="banner carou" src="../assets/img/prizes/prizes4.png"  >
+										<div class="carousel-caption">
+										</div>   
+									</div>
+									<div class="carousel-item">
+										<img class="banner carou" src="../assets/img/prizes/prizes5.png"  >
+										<div class="carousel-caption">
+										</div>   
+									</div>
+									<div class="carousel-item">
+										<img class="banner carou" src="../assets/img/prizes/prizes6.png"  >
+										<div class="carousel-caption">
+										</div>   
+									</div>
+                                    					<div class="carousel-item">
+										<img class="banner carou" src="../assets/img/prizes/prizes7.png"  >
+										<div class="carousel-caption">
+										</div>   
+									</div>
+									<div class="carousel-item">
+										<img class="banner carou" src="../assets/img/prizes/prizes8.png"  >
+										<div class="carousel-caption">
+										</div>   
+									</div>
+                                    					<div class="carousel-item">
+										<img class="banner carou" src="../assets/img/prizes/prizes9.png"  >
 										<div class="carousel-caption">
 										</div>   
 									</div>
